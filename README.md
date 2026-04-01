@@ -81,7 +81,7 @@ App will run at:
 http://localhost:3000
 
 ---
-
+These are some previews of the application:
 ## 📸 Screenshots
 ### Home Page
 ![Home](screenshots/home.png)
